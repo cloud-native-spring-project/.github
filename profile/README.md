@@ -15,3 +15,5 @@
 
 
 <img width="1577" alt="System-Design" src="https://github.com/cloud-native-spring-project/.github/assets/36038280/20e9d0f7-076d-4ec0-9ec4-82f9f486b354">
+
+Code is divided into each repositories in differentiating the services: https://github.com/orgs/cloud-native-spring-project/repositories
